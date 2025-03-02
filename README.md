@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashiKalum11&label=Profile%20views&color=0e75b6&style=flat" alt="ShashiKalum11" /> </p>
 
-- 🌱 I’m currently learning **Bsc(hons) software engineering**
+- 🌱 I’m currently learning Bsc(hons) software engineering**
 
 - 📫 How to reach me **shashikalum1111@gmail.com**
 
